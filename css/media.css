@@ -1,0 +1,241 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.header{
+		padding: 10px 0;
+	}
+	.c-padding{
+    padding-top: 50px;
+    padding-bottom: 70px; 
+}
+	.menu ul li a{
+		font-size: 20px;
+		text-align: right;
+		margin: 10px 0 0;
+		padding: 0;
+	}
+	.slider{
+	padding-bottom:70px;
+}
+.cid {
+    bottom: -60px;
+}
+.s-text{
+	margin-top: 10px;
+}
+.cid [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.s-text h1{
+	font-size: 25px;
+}
+.s-text h2{
+	font-size: 20px;
+}
+.s-text p{
+	margin-bottom: 20px;
+}
+.s-icons li{
+	margin-right: 25px !important;
+}
+.s-icons li i{
+	font-size: 25px;
+}
+
+.c-h1{
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+.c-p{
+	font-size: 18px;
+}
+.c-md{
+	margin-top: 20px;
+}
+.f-text{
+    text-align: center;
+}
+.f-icon i{
+	font-size: 40px;
+}
+.f-text h2{
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+.c-form{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.c-input{
+	height: 40px;
+	padding: 10px 10px;
+}
+.c-submit{
+	height: 45px;
+}
+.c-icon li i{
+	font-size: 38px;
+}
+.c-icon li{
+	margin-right: 20px !important;
+}
+/*contact end*/
+/*footer start*/
+.footer{
+	padding-bottom: 70px;
+}
+.f-1{
+	text-align: center;
+}
+.f-2{
+	text-align: center;
+	margin-top: 40px;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.header{
+		padding: 10px 0;
+	}
+	.c-padding{
+    padding-top: 50px;
+    padding-bottom: 70px; 
+}
+	.menu ul li a{
+		font-size: 20px;
+		text-align: right;
+		margin: 10px 0 0;
+		padding: 0;
+	}
+	/*slider start*/
+.slider{
+	padding-bottom:60px;
+}
+.cid {
+    bottom: -50px;
+    }
+    .s-text{
+	margin-top: 20px;
+}
+.cid [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.s-text h1{
+	font-size: 25px;
+}
+.s-text h2{
+	font-size: 20px;
+}
+.s-text p{
+	margin-bottom: 25px;
+}
+.s-icons li{
+	margin-right: 25px !important;
+}
+.s-icons li i{
+	font-size: 35px;
+}
+/*slider end*/
+/*feature start*/
+
+.c-h1{
+	font-size: 25px;
+}
+.c-p{
+	font-size: 18px;
+}
+.c-md{
+	margin-top: 20px;
+}
+.f-text{
+    text-align: center;
+}
+.f-icon i{
+	font-size: 40px;
+}
+.f-text h2{
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+/*contact start*/
+.c-form{
+	margin-top: 35px;
+	margin-bottom: 40px;
+}
+.c-input{
+	height: 45px;
+	padding: 10px 10px;
+}
+.c-submit{
+	height: 45px;
+}
+.c-icon li i{
+	font-size: 40px;
+}
+.c-icon li{
+	margin-right: 25px !important;
+}
+/*contact end*/
+/*footer start*/
+.footer{
+	padding-bottom: 70px;
+}
+.f-1{
+	text-align: center;
+	margin-bottom: 40px;
+}
+.f-2{
+	text-align: center;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.c-padding{
+    padding-top: 80px;
+    padding-bottom: 100px; 
+    }
+	.menu ul li a{
+		text-align: right;
+		margin: 10px 0 0;
+		padding: 0;
+	}
+	/*feature start*/
+
+.c-md{
+	margin-top: 40px;
+}
+.f-text{
+    text-align: center;
+}
+/*footer start*/
+.footer{
+	padding-bottom: 100px;
+}
+/*footer start*/
+
+/*feature end*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+
+}
+
+/*Extraa Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra extraa large devices (extraa large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
